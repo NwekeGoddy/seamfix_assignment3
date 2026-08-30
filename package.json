@@ -1,0 +1,16 @@
+{
+  "name": "seamfix_assignment3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsx main.ts",
+    "dev": "tsx watch main.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "typescript": "^7.0.2"
+  }
+}
